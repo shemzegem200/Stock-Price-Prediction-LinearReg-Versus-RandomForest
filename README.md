@@ -80,9 +80,9 @@ python main.py
 ```
 
 ### Frontend (React)
+https://stock-prediction-shyam.netlify.app/
 
 ```bash
-cd frontend
 yarn install
 yarn start
 ```
